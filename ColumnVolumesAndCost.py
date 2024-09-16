@@ -30,5 +30,4 @@ total_cost = total_volume * unit_price_per_cubic_meter
 
 # Print the total volume and cost
 print(f"Total Volume of All Columns: {total_volume:.2f} cubic meters")
-print(f"Total Cost: {total_cost:.2f} DKK")  # Adjust the currency unit if needed
-
+print(f"Total Cost: {total_cost:.2f} DKK")  
