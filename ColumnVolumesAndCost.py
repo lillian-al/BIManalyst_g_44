@@ -19,7 +19,7 @@ def calculate_total_column_volume():
     
     return total_volume
 
-# Define the unit price per cubic meter
+# Define the average unit price per cubic meter taken from PM appendix C
 unit_price_per_cubic_meter = 15459.85
 
 # Get the total volume of columns
