@@ -1,12 +1,10 @@
 import ifcopenshell
 
-from .rules import windowRule
-from .rules import doorRule
+from ColumnTotalVolumesAndTotalCost import calculate_total_column_volume
 
 model = ifcopenshell.open("path/to/ifcfile.ifc")
 
-windowResult = windowRule.checkRule(model)
-doorResult = doorRule.checkRule(model)
+CostResult = calculate_total_column_volume.checkColumnTotalVolumesAndTotalCost(model)
 
-print("Window result:", windowResult)
-print("Door result:", doorResult)
+print("Cost result:", CostResult)
+
