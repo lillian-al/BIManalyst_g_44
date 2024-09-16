@@ -1,0 +1,32 @@
+import bpy
+
+# Function to calculate the total volume of columns using Blender's Object Information
+def calculate_total_column_volume():
+    total_volume = 0
+    for obj in bpy.data.objects:
+        if obj.type == 'MESH':
+            # Check if the object is a column by name or other identifier
+            if "column" in obj.name.lower():  # Adjust this filter based on your column naming convention
+                # Make sure the object has a mesh and is visible in the viewport
+                if obj.data and obj.visible_get():
+                    # Get volume from dimensions panel in Blender
+                    # Note: This assumes the object has been properly measured and has a volume value
+                    volume = obj.dimensions.z * obj.dimensions.y * obj.dimensions.x  # This is a rough estimate
+                    if volume:
+                        total_volume += volume
+                    else:
+                        print(f"Column {obj.name}: Volume Not Available")
+    
+    return total_volume
+
+# Get the total volume of columns
+total_volume = calculate_total_column_volume()
+
+# Print the total volume
+print(f"Total Volume of All Columns: {total_volume} cubic meters")
+
+# Optionally, add the result to Blender as a text object
+bpy.ops.object.text_add()
+text_obj = bpy.context.object
+text_obj.data.body = f"Total Volume of All Columns: {total_volume} cubic meters"
+text_obj.location = (0, 0, 2)  # Adjust location as needed
