@@ -8,4 +8,4 @@ The claim is found in section 6 in the PM report, cost estimate, specifically pa
 
 The script calculates the total volume of all concrete columns in the structural model, and then multiplies the average unit cost of the columns with the total volume, for the total cost of all columns.
 
-The script is ColumnTotalVolumesAndTotalCost
+The script is ColumnVolumesAndCost
