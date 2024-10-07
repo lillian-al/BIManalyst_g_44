@@ -31,17 +31,17 @@ From the overall use case of cost estimation, a specific function is required fo
 
 
 ### A2e
-The IFC Column Cost Estimator is a Python-based tool using ifcOpenShell to automate the extraction of column properties from an IFC model. It calculates the total volume of all concrete columns, retrieves the average unit price (considering various column sizes), and multiplies these to estimate the total cost of columns in the project.
+The IFC Column Cost Estimator is a Python-based tool using *ifcOpenShell* to automate the extraction of column properties from an IFC model. It calculates the total volume of all concrete columns, retrieves the average unit price (considering various column sizes), and multiplies these to estimate the total cost of columns in the project.
 The business value of the tool is that it saves time and increases accuracy in cost estimation by automating the process, minimizing human error in data extraction and calculation. It provides quicker turnaround for cost assessments, aiding in budget control during early design stages.
 The societal value is that it promotes transparency and accountability in construction projects by providing stakeholders with accurate, data-driven cost estimations. This can help in preventing budget overruns and ensuring better resource allocation.
 
 
 ### A2f
 Information to extract: Geometric data such as length, width, and height of the columns.
-The geometric data can be found under IfcColumn, perhaps IfcShapeRepresentation. Material properties can also be found in IfcMaterial linked to IfcColumn. Location data can be derived from IfcLocalPlacement of each IfcColumn.
+The geometric data can be found under *IfcColumn*, perhaps *IfcShapeRepresentation*. Material properties can also be found in *IfcMaterial* linked to *IfcColumn*. Location data can be derived from *IfcLocalPlacement* of each *IfcColumn*.
 The required information should be imbedded in the Ifc model if the model is detailed properly.
-With IfcOpenShell, elements like IfcColumn can be retrieved using ifc.get() and if.get_representation()
-We will need to get a deeper understanding of IfcShapeRepresentation and the basics of Ifc to calculate column volumes and filter out the relevant columns.
+With *IfcOpenShell*, elements like *IfcColumn* can be retrieved using *ifc.get()* and *if.get_representation()*
+We will need to get a deeper understanding of *IfcShapeRepresentation* and the basics of Ifc to calculate column volumes and filter out the relevant columns.
 
 
 ### A2g
