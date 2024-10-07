@@ -47,3 +47,6 @@ To do this we will need to get a deeper understanding of *IfcShapeRepresentation
 ### A2g
 For this course GPL-3.0 is the software license used.
 
+
+### References
+
