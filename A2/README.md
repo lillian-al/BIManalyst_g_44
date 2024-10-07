@@ -40,8 +40,8 @@ The societal value is that it promotes transparency and accountability in constr
 Information to extract: Geometric data such as length, width, and height of the columns.
 The geometric data can be found under *IfcColumn*, perhaps *IfcShapeRepresentation*. Material properties can also be found in *IfcMaterial* linked to *IfcColumn*. Location data can be derived from *IfcLocalPlacement* of each *IfcColumn*.
 The required information should be imbedded in the Ifc model if the model is detailed properly.
-With *IfcOpenShell*, elements like *IfcColumn* can be retrieved using *ifc.get()* and *if.get_representation()*
-We will need to get a deeper understanding of *IfcShapeRepresentation* and the basics of Ifc to calculate column volumes and filter out the relevant columns.
+With *IfcOpenShell*, elements like *IfcColumn* can be retrieved using *ifc.get()* and *if.get_representation()*.
+To do this we will need to get a deeper understanding of *IfcShapeRepresentation* and the basics of Ifc to calculate column volumes and filter out the relevant columns.
 
 
 ### A2g
