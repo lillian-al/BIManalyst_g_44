@@ -5,7 +5,7 @@ The groups confidence in Python is: 0+1=1
 
 
 ### A2b
-This verification focuses on the construction cost in Building #2406 as presented in the project management report. Specifically, the construction cost associated with all columns in the building will be checked. The information about the columns is found on page 6 in PM Appendix, where detailed descriptions of each construction element are provided.
+This verification focuses on the construction cost in *Building #2406* as presented in the project management report. Specifically, the construction cost associated with all columns in the building will be checked. The information about the columns is found on page 6 in PM Appendix, where detailed descriptions of each construction element are provided.
 The claim involves calculating the total cost for all concrete columns by deriving the cost from the volume of concrete used for these columns and multiplying it by the average unit cost. While the PM appendix specifies distinct unit costs for small and large columns, the dimensions of these columns do not match consistently across the structural model. Therefore, to maintain a coherent calculation, the average unit price is used for all columns.
 By checking this claim, we aim to ensure the accuracy and reliability of the construction cost estimates related to structural elements. This verification will contribute to maintaining overall financial integrity in the project and ensure that cost management practices are appropriately followed.
 
