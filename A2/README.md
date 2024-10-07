@@ -26,10 +26,10 @@ The closest BIM use case is Penn State’s BIM use case under Plan: Cost analysi
 A2d:
 
 From the overall use case of cost estimation, a specific function is required for calculating the total volume and cost of concrete columns. This involves automating the extraction of column dimensions and properties from the IFC file using ifcOpenShell. The script would:
-•	Identify all concrete columns.
-•	Calculate their total volume.
-•	Apply the average unit cost.
-•	Output the total estimated cost.
+- Identify all concrete columns.
+- Calculate their total volume.
+- Apply the average unit cost.
+- Output the total estimated cost.
 
 
 A2e:
