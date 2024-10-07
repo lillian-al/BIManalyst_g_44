@@ -1,7 +1,7 @@
 # Assignment A2: Use Case
 
 ### A2a
-Confidence in Python: 0+1=1
+The groups confidence in Python is: 0+1=1
 
 
 ### A2b
@@ -44,6 +44,6 @@ With IfcOpenShell, elements like IfcColumn can be retrieved using ifc.get() and 
 We will need to get a deeper understanding of IfcShapeRepresentation and the basics of Ifc to calculate column volumes and filter out the relevant columns.
 
 
-## A2g
+### A2g
 For this course GPL-3.0 is the software license used.
 
