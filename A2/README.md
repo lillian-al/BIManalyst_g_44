@@ -1,7 +1,7 @@
 # Assignment A2: Use Case
 
 ### A2a
-The groups confidence in Python is: 0+1=1
+The group's confidence in Python is: 0+1=1
 
 
 ### A2b
