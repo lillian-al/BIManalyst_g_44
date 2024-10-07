@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 841.89 595.28">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6, .cls-7, .cls-8 {
+        fill: #1a194d;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6, .cls-8 {
+        font-family: Dubai-Medium, Dubai;
+        font-weight: 500;
+      }
+
+      .cls-1, .cls-6 {
+        font-size: 9.08px;
+      }
+
+      .cls-9 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-2 {
+        font-size: 6px;
+      }
+
+      .cls-10, .cls-11 {
+        fill: #fff;
+      }
+
+      .cls-12, .cls-11, .cls-13, .cls-7, .cls-14, .cls-15, .cls-16, .cls-17, .cls-18 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-12, .cls-7, .cls-14, .cls-15, .cls-16, .cls-17 {
+        stroke: #1a194d;
+      }
+
+      .cls-12, .cls-14, .cls-15, .cls-18 {
+        fill: none;
+      }
+
+      .cls-12, .cls-16, .cls-17 {
+        stroke-width: .5px;
+      }
+
+      .cls-11, .cls-13, .cls-18 {
+        stroke: #231f20;
+      }
+
+      .cls-13 {
+        fill: #e5f5fa;
+      }
+
+      .cls-13, .cls-15 {
+        stroke-width: 2px;
+      }
+
+      .cls-19 {
+        letter-spacing: 0em;
+      }
+
+      .cls-3 {
+        font-size: 8.25px;
+      }
+
+      .cls-20 {
+        letter-spacing: 0em;
+      }
+
+      .cls-4 {
+        font-size: 9px;
+      }
+
+      .cls-21 {
+        letter-spacing: 0em;
+      }
+
+      .cls-5 {
+        font-size: 7.43px;
+      }
+
+      .cls-6 {
+        opacity: .71;
+      }
+
+      .cls-8 {
+        font-size: 6.6px;
+      }
+
+      .cls-22 {
+        letter-spacing: 0em;
+      }
+
+      .cls-16 {
+        opacity: .56;
+      }
+
+      .cls-16, .cls-17 {
+        fill: #d3eef9;
+      }
+
+      .cls-23 {
+        fill: #bbe3e4;
+        opacity: .2;
+      }
+
+      .cls-18 {
+        stroke-width: .75px;
+      }
+    </style>
+  </defs>
+  <rect class="cls-10" width="841.89" height="595.28"/>
+  <rect class="cls-23" x="10.47" y="11.98" width="820.54" height="164.02"/>
+  <rect class="cls-23" x="10.67" y="420.86" width="820.54" height="164.02"/>
+  <circle class="cls-13" cx="95.89" cy="290.38" r="17.82"/>
+  <circle class="cls-18" cx="95.89" cy="290.84" r="11.92"/>
+  <circle class="cls-11" cx="748.85" cy="290.84" r="11.92"/>
+  <text class="cls-1" transform="translate(86.25 321.33)"><tspan x="0" y="0">Start</tspan><tspan x="-4.9" y="10.9">Process</tspan></text>
+  <text class="cls-6" transform="translate(29.22 308.94) rotate(-90)"><tspan x="0" y="0">PROCESS</tspan></text>
+  <text class="cls-6" transform="translate(29.57 135.24) rotate(-90)"><tspan x="0" y="0">R</tspan><tspan class="cls-19" x="5.36" y="0">E</tspan><tspan x="10.32" y="0">F</tspan><tspan class="cls-22" x="15.06" y="0">E</tspan><tspan class="cls-20" x="20.03" y="0">R</tspan><tspan class="cls-19" x="25.39" y="0">E</tspan><tspan class="cls-21" x="30.35" y="0">NCES INF</tspan><tspan class="cls-9" x="67.68" y="0">O</tspan><tspan x="74.06" y="0">.</tspan></text>
+  <text class="cls-6" transform="translate(29.57 537.31) rotate(-90)"><tspan x="0" y="0">INFO. EXCHANGE</tspan></text>
+  <text class="cls-1" transform="translate(741.6 321.57)"><tspan x="0" y="0">End</tspan><tspan x="-7.29" y="10.9">Process</tspan></text>
+  <text class="cls-3" transform="translate(177.42 287.8)"><tspan x="0" y="0">Collect</tspan><tspan x="-25.32" y="9.91">Column Specification</tspan></text>
+  <text class="cls-2" transform="translate(174.93 510.14)"><tspan x="0" y="0">IFC MODEL</tspan></text>
+  <text class="cls-2" transform="translate(155.56 134.12)"><tspan x="0" y="0">PROJECT MANAGEMENT</tspan><tspan x="21.97" y="7.2">REPORT</tspan></text>
+  <text class="cls-2" transform="translate(378.86 130.89)"><tspan x="0" y="0">PROJECT MANAGEMENT</tspan><tspan x="7.53" y="7.2">REPORT APPENDIX</tspan></text>
+  <rect class="cls-15" x="144.78" y="272.56" width="86.86" height="35.64"/>
+  <text class="cls-5" transform="translate(272.56 287.8)"><tspan x="0" y="0">Are Specifications</tspan><tspan x="11.42" y="8.91">Complete?</tspan></text>
+  <text class="cls-5" transform="translate(304.25 256.88)"><tspan x="0" y="0">NO</tspan></text>
+  <text class="cls-5" transform="translate(348.5 287.8)"><tspan x="0" y="0">YES</tspan></text>
+  <rect class="cls-15" x="256.93" y="272.56" width="86.86" height="35.64"/>
+  <text class="cls-5" transform="translate(389.95 288.27)"><tspan x="0" y="0">Material Cost </tspan><tspan x="4.96" y="8.92">Estimation</tspan></text>
+  <text class="cls-4" transform="translate(776.94 554.13)"><tspan x="0" y="0">Group 44</tspan></text>
+  <rect class="cls-15" x="368.08" y="273.03" width="86.86" height="35.64"/>
+  <text class="cls-8" transform="translate(500.04 288.27)"><tspan x="0" y="0">Calculate Total </tspan><tspan x="3.43" y="7.92">Column Cost</tspan></text>
+  <rect class="cls-15" x="477.49" y="273.03" width="86.86" height="35.64"/>
+  <text class="cls-5" transform="translate(597.92 288.27)"><tspan x="0" y="0">Review and approve</tspan><tspan x="16.86" y="8.92">Estimate</tspan></text>
+  <text class="cls-5" transform="translate(686.79 285.6)"><tspan x="0" y="0">Approved</tspan></text>
+  <text class="cls-5" transform="translate(635.5 324.32)"><tspan x="0" y="0">Not</tspan><tspan x="0" y="8.92">Approved</tspan></text>
+  <rect class="cls-15" x="584.9" y="273.03" width="86.86" height="35.64"/>
+  <polyline class="cls-14" points="300.36 272.56 300.36 241.19 95.89 241.19 95.89 272.56"/>
+  <line class="cls-14" x1="343.79" y1="292.31" x2="368.08" y2="292.31"/>
+  <polyline class="cls-7" points="454.94 292.31 476.7 292.31 454.94 292.31"/>
+  <line class="cls-7" x1="564.35" y1="290.85" x2="584.9" y2="290.85"/>
+  <line class="cls-7" x1="671.76" y1="290.85" x2="731.03" y2="290.85"/>
+  <polyline class="cls-14" points="628.33 308.67 628.33 339.6 411.51 339.6 411.51 308.67"/>
+  <line class="cls-7" x1="231.64" y1="290.38" x2="256.93" y2="290.38"/>
+  <line class="cls-7" x1="113.71" y1="290.38" x2="144.78" y2="290.38"/>
+  <rect class="cls-14" x="10.47" y="11.98" width="820.54" height="573.44"/>
+  <line class="cls-14" x1="45.41" y1="11.98" x2="45.41" y2="585.43"/>
+  <polyline class="cls-14" points="10.47 176.01 45.41 176.01 831.02 176.01"/>
+  <line class="cls-14" x1="10.47" y1="420.86" x2="831.02" y2="420.86"/>
+  <g>
+    <polygon class="cls-17" points="398.59 117.83 398.59 85.26 420.85 85.26 423.89 88.8 423.89 117.83 398.59 117.83"/>
+    <polyline class="cls-12" points="424.17 89.31 420.57 89.31 420.57 85.22"/>
+  </g>
+  <g>
+    <polygon class="cls-17" points="175.42 119.89 175.42 87.32 197.68 87.32 200.72 90.86 200.72 119.89 175.42 119.89"/>
+    <polyline class="cls-12" points="200.99 91.37 197.4 91.37 197.4 87.29"/>
+  </g>
+  <g>
+    <polygon class="cls-17" points="176.76 498.61 176.76 466.04 199.02 466.04 202.06 469.58 202.06 498.61 176.76 498.61"/>
+    <polyline class="cls-12" points="202.34 470.09 198.74 470.09 198.74 466"/>
+  </g>
+  <line class="cls-16" x1="186.85" y1="145.19" x2="186.85" y2="273.03"/>
+  <line class="cls-16" x1="411.24" y1="145.19" x2="411.24" y2="273.03"/>
+  <line class="cls-16" x1="188.21" y1="308.2" x2="188.21" y2="455.34"/>
+  <circle class="cls-13" cx="748.85" cy="290.62" r="17.82"/>
+  <circle class="cls-18" cx="748.85" cy="290.84" r="11.92"/>
+</svg>
