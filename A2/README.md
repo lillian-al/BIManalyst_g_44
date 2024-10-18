@@ -45,6 +45,7 @@ The required information should be imbedded in the Ifc model if the model is det
 With *IfcOpenShell*, elements like *IfcColumn* can be retrieved using *ifc.get()* and *if.get_representation()*.
 To do this we will need to get a deeper understanding of *IfcShapeRepresentation* and the basics of Ifc to calculate column volumes and filter out the relevant columns.
 
+![name](Group44_A2fDiagram.svg)
 
 ### A2g
 For this course GPL-3.0 is the software license used.
