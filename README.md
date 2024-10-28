@@ -5,3 +5,15 @@ The primary goal of this use case is to verify the construction cost accuracy fo
 
 
 This use case is designed for stakeholders involved in project management, cost estimation, and financial auditing of the construction project. Specifically, project managers and cost estimators benefit from this process by ensuring that construction costs are accurately represented, which is crucial for maintaining the project budget. Financial auditors can use this verification to assess the accuracy and transparency of cost documentation, contributing to accountability in financial reporting.
+
+
+
+This use case requires expertise in several key areas outside of Building Information Modeling (BIM):
+- Knowledge of standard pricing for concrete elements, particularly for small and large columns, is needed to apply accurate unit costs.
+- An understanding of column sizes and structural classifications is necessary to correctly categorize columns by size and type, as structural standards often influence column dimensions.
+- Familiarity with cost verification methods and construction budgeting ensures the verification aligns with financial management practices.
+- Awareness of industry-specific standards, such as cost-per-square-meter rates (from resources like Molio.dk), enables standardized and reliable cost estimates.
+
+
+
+
