@@ -21,9 +21,12 @@ The script utilizes several core IFC concepts to access and manipulate data.
    The script retrieves all columns from the model using model.by_type("IfcColumn"). This IFC entity type (IfcColumn) represents individual structural columns within the building model. The script iterates through each instance of IfcColumn to access and classify columns based on properties such as type and volume.
 2. **IfcRelDefinesByProperties:**
    The IfcRelDefinesByProperties relationship is used to link each column to its associated properties. In the script, this relationship is explored to locate property sets (IfcPropertySet) attached to each IfcColumn. This structure is essential for gathering specific data about column types and volumes for cost estimation.
-4. **IfcPropertySet:**
-5. **Ifc**
-6. **Classification**
+3. **IfcPropertySet:**
+   Within IfcRelDefinesByProperties, the script accesses IfcPropertySet instances, which contain various properties associated with the columns. The script specifically searches for two properties in these sets, which is type and volume.
+   Type determines the classification of each column (e.g., small or large) based on its type description (e.g., 420mm or 480mm). This classification influences the unit price applied to the column.
+   The Volume property, when available, provides the cubic measurement of each column. This is crucial for calculating the total construction cost as it is directly multiplied by the respective unit price.
+5. **Classification**
+   While not strictly an IFC concept, the script applies custom logic to classify columns into small or large categories based on the type property. By checking for specific dimension indicators within the type (e.g., '420', '360' for small, and '480', '600' for large), the script organizes columns into ranges and accumulates their volumes for cost estimation purposes.
 
 
 This use case involves cost verification analysis, which first of all includes calculating total volumes for different column types and validating costs using established unit rates. This analysis ensures that calculated costs match those reported, allowing stakeholders to address any discrepancies. By conducting a detailed cost assessment, the use case contributes to compliance in project financial reporting, reinforcing transparency in construction spending. Furthermore, accurate classification of column types (small vs. large) is essential for applying the correct unit cost and verifying construction budgeting accurately.
