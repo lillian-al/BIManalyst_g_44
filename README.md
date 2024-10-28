@@ -28,8 +28,8 @@ The focus is exclusively on concrete columns within Building #2406. These are ca
 The script relies on the following data inputs to function effectively:
 - The IFC model file, which includes geometric data, material properties, and associated attributes for all concrete columns in Building #2406.
 - Established unit costs for different column sizes, to calculate total costs accurately. These rates are indicated in the project management report appendix, which are drawn from Molio.dk
-- Volume of each column
-- Column classification data
+- Volume of each column, which is extracted using ifcopenshell.
+- Column classification data, which is described in the project management report appendix.
 
 
 
