@@ -1,3 +1,7 @@
 # BIManalyst group 44
 
 The primary goal of this use case is to verify the construction cost accuracy for concrete columns in Building #2406 as documented in the project management report. The verification process involves extracting detailed data on all concrete columns from an IFC model to calculate the total construction cost. This calculation uses volume data for each column, distinguishing between "small" and "large" columns based on cross-sectional dimensions. By multiplying the volume by established unit costs, the total column construction cost is calculated and then compared with the reported cost in the project documentation. The outcome provides a data-driven validation of column-related cost estimates, which is essential for ensuring financial accountability and adherence to budget constraints in the project.
+
+
+
+This use case is designed for stakeholders involved in project management, cost estimation, and financial auditing of the construction project. Specifically, project managers and cost estimators benefit from this process by ensuring that construction costs are accurately represented, which is crucial for maintaining the project budget. Financial auditors can use this verification to assess the accuracy and transparency of cost documentation, contributing to accountability in financial reporting.
