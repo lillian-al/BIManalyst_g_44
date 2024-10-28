@@ -16,6 +16,16 @@ This use case requires expertise in several key areas outside of Building Inform
 
 
 
+The script utilizes several core IFC concepts to access and manipulate data.
+1. **IfcColumn:**
+   The script retrieves all columns from the model using model.by_type("IfcColumn"). This IFC entity type (IfcColumn) represents individual structural columns within the building model. The script iterates through each instance of IfcColumn to access and classify columns based on properties such as type and volume.
+2. **IfcRelDefinesByProperties:**
+   The IfcRelDefinesByProperties relationship is used to link each column to its associated properties. In the script, this relationship is explored to locate property sets (IfcPropertySet) attached to each IfcColumn. This structure is essential for gathering specific data about column types and volumes for cost estimation.
+4. **IfcPropertySet:**
+5. **Ifc**
+6. **Classification**
+
+
 This use case involves cost verification analysis, which first of all includes calculating total volumes for different column types and validating costs using established unit rates. This analysis ensures that calculated costs match those reported, allowing stakeholders to address any discrepancies. By conducting a detailed cost assessment, the use case contributes to compliance in project financial reporting, reinforcing transparency in construction spending. Furthermore, accurate classification of column types (small vs. large) is essential for applying the correct unit cost and verifying construction budgeting accurately.
 
 
