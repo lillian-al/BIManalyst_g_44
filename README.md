@@ -1,11 +1,3 @@
 # BIManalyst group 44
 
-BUILD Focus Area
-
-Part of the claim about the construction cost is being checked, by checking the cost of all columns in building #2406.
-
-The claim is found in section 6 in the PM report, cost estimate, specifically page 6 in the PM Appendix where information about each construction element is found.
-
-The script calculates the total volume of all concrete columns in the structural model, and then multiplies the average unit cost of the columns with the total volume, for the total cost of all columns.
-
-The script is ColumnVolumesAndCost
+The primary goal of this use case is to verify the construction cost accuracy for concrete columns in Building #2406 as documented in the project management report. The verification process involves extracting detailed data on all concrete columns from an IFC model to calculate the total construction cost. This calculation uses volume data for each column, distinguishing between "small" and "large" columns based on cross-sectional dimensions. By multiplying the volume by established unit costs, the total column construction cost is calculated and then compared with the reported cost in the project documentation. The outcome provides a data-driven validation of column-related cost estimates, which is essential for ensuring financial accountability and adherence to budget constraints in the project.
