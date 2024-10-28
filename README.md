@@ -9,10 +9,10 @@ This use case is designed for stakeholders involved in project management, cost 
 
 
 This use case requires expertise in several key areas outside of Building Information Modeling (BIM):
-- **Structural Engineering:** Knowledge of standard pricing for concrete elements, particularly for small and large columns, is needed to apply accurate unit costs.
-- An understanding of column sizes and structural classifications is necessary to correctly categorize columns by size and type, as structural standards often influence column dimensions.
-- Familiarity with cost verification methods and construction budgeting ensures the verification aligns with financial management practices.
-- Awareness of industry-specific standards, such as cost-per-square-meter rates (from resources like Molio.dk), enables standardized and reliable cost estimates.
+- **Cost Estimation:** Knowledge of standard pricing for concrete elements, particularly for small and large columns, is needed to apply accurate unit costs.
+- **Structural Engineering:** An understanding of column sizes and structural classifications is necessary to correctly categorize columns by size and type, as structural standards often influence column dimensions.
+- **Financial Analysis:** Familiarity with cost verification methods and construction budgeting ensures the verification aligns with financial management practices.
+- **Indstry Standards Knowledge:** Awareness of industry-specific standards, such as cost-per-square-meter rates (from resources like Molio.dk), enables standardized and reliable cost estimates.
 
 
 
