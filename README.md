@@ -34,3 +34,6 @@ The script relies on the following data inputs to function effectively:
 
 
 
+For this cost verification use case to proceed, certain conditions must be met. The structural model must first of all be finalized, with all concrete columns and their properties fully defined in the IFC model. Unit prices for both small and large concrete columns must also be confirmed according to industry standards, like Molio.dk, to ensure consistency in cost estimation. Lastly, the classification system for column sizes should be predefined to allow accurate sorting and cost application for small vs. large columns.
+
+
