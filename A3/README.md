@@ -9,7 +9,9 @@ The verification process involves using a Python-based tool that leverages the i
 
 
 
-instructions to run the tool.
+To run the tool, start by setting up the necessary environment. Ensure that Python is installed on your system, along with the ifcOpenShell library. If ifcOpenShell isn’t installed, you can add it by running the command *pip install ifcopenshell* in your terminal.
+
+Next, prepare your IFC model file, which should contain detailed information on all concrete columns, including geometric properties, material specifications, and property sets as required. Place this file (CES_BLD_24_06_STR.ifc) in an easily accessible directory.
 
 ### Advanced Building Design
 What Advanced Building Design Stage (A,B,C or D) would your tool be usefuL?
