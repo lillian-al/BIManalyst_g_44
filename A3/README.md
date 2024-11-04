@@ -12,6 +12,12 @@ The verification process involves using a Python-based tool that leverages the i
 To run the tool, start by setting up the necessary environment. Ensure that Python is installed on your system, along with the ifcOpenShell library. If ifcOpenShell isn’t installed, you can add it by running the command *pip install ifcopenshell* in your terminal.
 
 Next, prepare your IFC model file, which should contain detailed information on all concrete columns, including geometric properties, material specifications, and property sets as required. Place this file (CES_BLD_24_06_STR.ifc) in an easily accessible directory.
+Open the Python script in a text editor and locate the model_path variable. Update this variable with the exact path to your IFC model file, replacing the placeholder path with your own file location. For example, you might set it as:
+*model_path = Path(r"C:\path\to\your\IFC_file.ifc")*
+
+Once the file path is set, run the script in a Python environment or from the command line using the command:
+*python main.py*
+The script will automatically extract data on all concrete columns, calculate the total volumes and costs for both "small" and "large" columns, and display the results in the terminal. This output will include the total volume of each column type, the estimated cost for each category, and the overall estimated cost for all columns, providing an accurate and data-driven cost assessment.
 
 ### Advanced Building Design
 What Advanced Building Design Stage (A,B,C or D) would your tool be usefuL?
