@@ -1,8 +1,10 @@
 # Group 44 Use Case
 
-The primary goal of this use case is to verify the construction cost accuracy for concrete columns in Building #2406 as documented in the project management report. The verification process involves extracting detailed data on all concrete columns from an IFC model to calculate the total construction cost. This calculation uses volume data for each column, distinguishing between "small" and "large" columns based on cross-sectional dimensions. By multiplying the volume by established unit costs, the total column construction cost is calculated and then compared with the reported cost in the project documentation. The outcome provides a data-driven validation of column-related cost estimates, which is essential for ensuring financial accountability and adherence to budget constraints in the project.
+The primary problem addressed by this tool is verifying the accuracy of construction cost estimates associated with all concrete columns in Building #2406. Specifically, it aims to ensure that the total cost for concrete columns, based on their calculated volumes and corresponding costs for small and large columns, aligns with the construction cost presented in the project management report. 
 
+The problem was identified through a review of the project management documentation for Building #2406. In the project management appendix, the cost estimates for small and large concrete columns were presented but required independent verification to confirm accuracy and prevent potential budget discrepancies.
 
+The verification process involves using a Python-based tool that leverages the ifcOpenShell library to extract detailed data on all concrete columns from an IFC (Industry Foundation Classes) model, which is a standardized file format for BIM data. The tool automates the classification of columns into "small" and "large" categories based on their cross-sectional dimensions, allowing for accurate volume calculations for each category. By multiplying these volumes by established unit costs, the total construction cost for the columns is computed. This calculated total is then compared with the reported costs in the project documentation, providing a data-driven validation of column-related cost estimates. This outcome is essential for ensuring financial accountability and adherence to budget constraints in the project.
 
 
 
