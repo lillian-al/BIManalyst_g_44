@@ -1,5 +1,6 @@
 # Group 44 Tool
 
+### About the tool
 The primary problem addressed by this tool is verifying the accuracy of construction cost estimates associated with all concrete columns in Building #2406. Specifically, it aims to ensure that the total cost for concrete columns, based on their calculated volumes and corresponding costs for small and large columns, aligns with the construction cost presented in the project management report. 
 
 The problem was identified through a review of the project management documentation for Building #2406. In the project management appendix, the cost estimates for small and large concrete columns were presented but required independent verification to confirm accuracy and prevent potential budget discrepancies.
@@ -10,8 +11,7 @@ The verification process involves using a Python-based tool that leverages the i
 
 instructions to run the tool.
 
-
-
+### Advanced Building Design
 What Advanced Building Design Stage (A,B,C or D) would your tool be usefuL?
 
 
