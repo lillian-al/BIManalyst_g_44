@@ -7,6 +7,18 @@ The problem was identified through a review of the project management documentat
 The verification process involves using a Python-based tool that leverages the ifcOpenShell library to extract detailed data on all concrete columns from an IFC (Industry Foundation Classes) model, which is a standardized file format for BIM data. The tool automates the classification of columns into "small" and "large" categories based on their cross-sectional dimensions, allowing for accurate volume calculations for each category. By multiplying these volumes by established unit costs, the total construction cost for the columns is computed. This calculated total is then compared with the reported costs in the project documentation, providing a data-driven validation of column-related cost estimates. This outcome is essential for ensuring financial accountability and adherence to budget constraints in the project.
 
 
+
+instructions to run the tool.
+
+
+
+What Advanced Building Design Stage (A,B,C or D) would your tool be usefuL?
+
+
+Which subjects might use it?
+
+
+
 In order for the tool to work, certain information is required in the model. The equired information in the model includes:
 - **IfcColumn:** The model must contain columns defined as *IfcColumn* elements to ensure that all relevant concrete columns are accessible for analysis.
 - **IfcRelDefinesByProperties:** Relationships must link each *IfcColumn* to its associated property sets, enabling access to detailed information about each column.
