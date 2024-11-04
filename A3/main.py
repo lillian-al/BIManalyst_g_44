@@ -1,11 +1,19 @@
 import ifcopenshell
 from pathlib import Path
 
-# Load the IFC file
-model_path = Path(r"C:\Users\lilli\OneDrive\Desktop\DTU\Kandidat\OpenBIM\CES_BLD_24_06_STR.ifc")
+# Prompt the user to specify an IFC file path or use the default location
+model_path = input("Enter the IFC file path (or press Enter to use default): ")
+if not model_path:
+    # Default path
+    model_path = Path(r"C:\Users\lilli\OneDrive\Desktop\DTU\Kandidat\OpenBIM\CES_BLD_24_06_STR.ifc")
+else:
+    model_path = Path(model_path)
+
+# Check if the file exists
 if not model_path.is_file():
     raise FileNotFoundError(f"No file found at {model_path}!")
 
+# Load the model
 model = ifcopenshell.open(model_path)
 
 # Get all columns from the model
