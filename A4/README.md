@@ -2,7 +2,7 @@
 
 The script is structured into several key sections. First, it loads and validates the IFC file, ensuring we have a valid path to work with. Then, it extracts column elements from the model and organizes them by their type. Each column type is categorized as either a "small" or "big" column based on its size, with corresponding unit prices. Next, it calculates the volume for each column and sums up the volume and price totals based on the type. Finally, it displays a summary of the total volumes and costs for each category of columns.
 
-### **What this code provides?**
+### **Steps to the code**
 
 1. loading the IFC model in Python using ifcopenshell.
 
