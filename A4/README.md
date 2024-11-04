@@ -1,20 +1,20 @@
-**How This Script Works**
+### **How This Script Works**
 
 The script is structured into several key sections. First, it loads and validates the IFC file, ensuring we have a valid path to work with. Then, it extracts column elements from the model and organizes them by their type. Each column type is categorized as either a "small" or "big" column based on its size, with corresponding unit prices. Next, it calculates the volume for each column and sums up the volume and price totals based on the type. Finally, it displays a summary of the total volumes and costs for each category of columns.
 
-**What this code provides?**
+### **What this code provides?**
 
-1. How to load an IFC model in Python using ifcopenshell.
+1. loading the IFC model in Python using ifcopenshell.
 
-2. Extract column data and access properties such as type and volume.
+2. Extracts column data and access properties such as type and volume.
 
-3. Categorize columns based on type and calculate cumulative volume.
+3. Categorizes columns based on type and calculate cumulative volume.
 
-4. Define costs per unit volume for different types of columns.
+4. Defines costs per unit volume for different types of columns.
 
-5. Calculate total costs based on these volumes and unit prices.
+5. Calculates total costs based on these volumes and unit prices.
 
-6. Output a summary with total volumes and costs for different column types.
+6. Outputs a summary with total volumes and costs for different column types.
 
 
 
