@@ -21,6 +21,7 @@ The script will automatically extract data on all concrete columns, calculate th
 
 ### Advanced Building Design
 The tool would be useful for the Advanced Building Design Stage C (Design Development) and Stage D (Technical Design).
+
 Stage C involves refining and detailing the design. The tool can here be used to verify the cost estimates for concrete columns, ensuring that these align with the architectural and structural design specifications. This helps project managers and engineers confirm the volume of columns, which is important for optimizing the design to meet budget constraints.
 
 During stage D, the design becomes more detailed and specific, and construction begins. The tool's functionality is critical here for verifying cost calculations as it directly impacts the project's budget. The tool can be used to validate the volume of columns and ensure that the cost estimates for different types of columns are accurate and reflect the actual structural design.
