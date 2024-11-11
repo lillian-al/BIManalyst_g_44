@@ -10,13 +10,11 @@ In this tutorial, we'll cover how to use ifcopenshell to access element properti
 - Accessing properties, such as **volume**, from these elements
 - Understanding how properties are stored in property sets
 
-
-### **Breakdown of the provided code:**
-
 ---
 
-### **1. Import Libraries**
-The code starts by importing `ifcopenshell` to work with IFC files and `Path` from `pathlib` to handle file paths.
+### **1. Set Up the Environment**
+To begin, ensure that you have `ifcopenshell` installed in your Python environment. Then, import the necessary libraries in your script:
+
 ```python
 import ifcopenshell
 from pathlib import Path
