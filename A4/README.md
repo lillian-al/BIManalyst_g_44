@@ -69,7 +69,7 @@ columns = model.by_type("IfcColumn")
 ---
 
 ### **4. Initialize Totals for Volume and Pricing**
-
+Variables are initialized to store total volumes and costs for “small” and “big” columns.
 ```python
 total_small_volume = 0.0
 total_big_volume = 0.0
@@ -84,7 +84,7 @@ unit_price_big = 13452.69    # Unit price for big columns
 ---
 
 ### **5. Define a Dictionary for Column Types**
-
+The code creates a dictionary to store column types and uses it to categorize columns based on size.
 ```python
 column_types = {}
 ```
@@ -94,7 +94,7 @@ column_types = {}
 ---
 
 ### **6. Loop Through Columns and Extract Properties**
-
+The code iterates through each column, extracting its type information to group them as “small” or “big.” For each IfcColumn, it inspects the IfcPropertySet to check for a "Type" property, which determines the column category.
 ```python
 for i, column in enumerate(columns, start=1):
     column_type = None  # Initialize column_type
@@ -121,7 +121,7 @@ for i, column in enumerate(columns, start=1):
 ---
 
 ### **7. Determine Ranges for Small and Big Columns**
-
+The code categorizes columns as “small” or “big” based on the type, grouping columns in ranges for efficient calculation.
 ```python
 small_column_ranges = []
 big_column_ranges = []
@@ -148,7 +148,7 @@ for col_type, indices in column_types.items():
 ---
 
 ### **8. Calculate Volumes by Column Range**
-
+The code iterates through the columns, finds their volume, and checks if the column index falls within the range of either small or big columns. It then adds the volume to the appropriate total.
 ```python
 for i, column in enumerate(columns, start=1):
     psets = column.IsDefinedBy
@@ -185,7 +185,7 @@ for i, column in enumerate(columns, start=1):
 ---
 
 ### **9. Calculate Prices and Total Cost**
-
+The total costs for small and big columns are calculated based on their volumes and unit prices, with an overall total cost for all columns.
 ```python
 total_small_price = total_small_volume * unit_price_small
 total_big_price = total_big_volume * unit_price_big
@@ -199,7 +199,7 @@ total_cost = total_small_price + total_big_price
 ---
 
 ### **10. Output Results**
-
+The results are printed to the console, providing a breakdown of the total volumes and costs for small and big columns and the total cost.
 ```python
 print(f"Total volume of big columns: {total_big_volume:.2f} cubic meters")
 print(f"Total volume of small columns: {total_small_volume:.2f} cubic meters")
