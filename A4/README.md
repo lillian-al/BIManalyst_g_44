@@ -120,5 +120,23 @@ This indicates the total volume of all columns in the model, in cubic meters.
 
 ---
 
+### **6. Further Steps**
+After retrieving element properties, you might:
 
+- **Classify Elements**: Group columns (or other elements) based on property values, such as their size or material type. For example, you could classify columns as "small" or "large" based on their dimensions or type.
 This code systematically categorizes columns, calculates their volumes and total costs, and provides a summary, making it useful for analyzing column costs based on volume and type.
+- **Calculate Costs**: Multiply the volume by the cost per cubic meter to estimate the cost of materials for the columns.
+- **Analyze Specific Column Types**: You could modify the script to calculate the volume separately for different column types by categorizing columns based on their attributes (e.g., size or material).
+
+---
+
+### Conclusion
+This guide demonstrates how to extract the volume property from columns in an IFC file using `ifcopenshell`. By understanding how to locate and access properties within `IfcPropertySet`, you can retrieve various data points from your IFC model, enabling deeper insights into your building’s structure and elements.
+
+This method is adaptable to many other element types and properties, making it a versatile skill in BIM analysis. With these techniques, you can perform detailed analysis, generate estimates, and optimize resources in construction projects.
+
+By categorizing columns into types and analyzing their properties further, you can enhance the accuracy of your building analysis and contribute to better-informed design and construction decisions.
+
+
+
+
