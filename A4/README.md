@@ -137,6 +137,9 @@ This method is adaptable to many other element types and properties, making it a
 
 By categorizing columns into types and analyzing their properties further, you can enhance the accuracy of your building analysis and contribute to better-informed design and construction decisions.
 
+---
+
+This method allows efficient analysis of specific properties across building elements, opening doors to various applications in modeling, construction estimation, and resource planning.
 
 
 
