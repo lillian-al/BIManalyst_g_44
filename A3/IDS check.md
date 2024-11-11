@@ -1,6 +1,7 @@
-To create an IDS for verifying the construction cost of concrete columns in Building #2406, here’s how the requirements can be structured based on the code you shared:
+Based on our tool for verifiying the construction cost of concrete columns in Building #2406, the IDS requirements can be structures in the following order: 
 
-### Information Delivery Specification (IDS) Requirements
+
+### IDS Requirements
 
 #### 1. **IFC Model General Requirements**
    - **IFC Schema Version**: Ensure compatibility with the version your tool is developed for (e.g., IFC2x3 or IFC4).
