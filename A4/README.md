@@ -25,7 +25,7 @@ The script is structured into several key sections. First, it loads and validate
 ---
 
 ### **1. Import Libraries**
-
+The code starts by importing `ifcopenshell` to work with IFC files and Path from pathlib to handle file paths.
 ```python
 import ifcopenshell
 from pathlib import Path
