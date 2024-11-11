@@ -26,6 +26,7 @@ from pathlib import Path
 ---
 
 ### **2. Load the IFC Model File**
+We’ll start by loading the IFC file containing the building model.
 
 ```python
 model_path = input("Enter the IFC file path (or press Enter to use default): ")
@@ -47,18 +48,22 @@ model = ifcopenshell.open(model_path)
 
 ---
 
-### **3. Retrieve IFC Elements from the Model**
-The code then extracts all `IfcColumn` elements from the model.
+### **3. Retrieve Specific IFC Elements (Columns) from the Model **
+IFC files classify building elements by type, so if we want to access all columns in the model, we can use `model.by_type("IfcColumn").` This retrieves all column elements, making it easy to analyze properties specific to columns.
+
 ```python
 columns = model.by_type("IfcColumn")
 ```
 
-- **columns**: Collects all elements of type `IfcColumn` in the model, setting the stage for further analysis.
+- **columns**: Stores all instances of `IfcColumn`, allowing us to access each one individually.
 
 ---
 
-### **4. Initialize Totals for Volume and Pricing**
-Variables are initialized to store total volumes and costs for “small” and “big” columns.
+### **4. Access Element Properties (e.g., Volume)**
+IFC properties are often stored within *property sets* (`IfcPropertySet`). To access specific properties like **volume**, we need to navigate through these sets and locate the property by name.
+
+Here’s how we can do this for each column element:
+
 ```python
 total_small_volume = 0.0
 total_big_volume = 0.0
