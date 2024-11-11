@@ -110,14 +110,15 @@ This output provides the total volume of columns within the model, offering valu
 ---
 
 ### **Example Output**
-Once executed, the script might output something similar to:
+If the script successfully retrieves and sums the volumes for all columns, the output might look something like this:
 ```python
-Total volume of big columns: 50.00 cubic meters
-Total volume of small columns: 30.00 cubic meters
-Total price of big columns: 672634.50 DKK
-Total price of small columns: 524010.00 DKK
-Total cost of all columns: 1196644.50 DKK
+Total volume of all columns: 185.75 cubic meters
+
 ```
+
+This indicates the total volume of all columns in the model, in cubic meters.
+
 ---
+
 
 This code systematically categorizes columns, calculates their volumes and total costs, and provides a summary, making it useful for analyzing column costs based on volume and type.
