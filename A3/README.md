@@ -20,8 +20,10 @@ Once the file path is set, run the script in a Python environment or from the co
 The script will automatically extract data on all concrete columns, calculate the total volumes and costs for both "small" and "large" columns, and display the results in the terminal. This output will include the total volume of each column type, the estimated cost for each category, and the overall estimated cost for all columns, providing an accurate and data-driven cost assessment.
 
 ### Advanced Building Design
-What Advanced Building Design Stage (A,B,C or D) would your tool be usefuL?
+The tool would be useful for the Advanced Building Design Stage C (Design Development) and Stage D (Technical Design).
+Stage C involves refining and detailing the design. The tool can here be used to verify the cost estimates for concrete columns, ensuring that these align with the architectural and structural design specifications. This helps project managers and engineers confirm the volume of columns, which is important for optimizing the design to meet budget constraints.
 
+During stage D, the design becomes more detailed and specific, and construction begins. The tool's functionality is critical here for verifying cost calculations as it directly impacts the project's budget. The tool can be used to validate the volume of columns and ensure that the cost estimates for different types of columns are accurate and reflect the actual structural design.
 
 The tool could be used by professionals involved in the following subjects:
 - **Structural Engineering**: Structural engineers who design the layout and size of columns will find the tool useful for verifying the accuracy of their volume calculations and ensuring cost estimates match project documentation.
