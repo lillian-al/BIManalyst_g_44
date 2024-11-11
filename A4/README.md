@@ -58,8 +58,8 @@ model = ifcopenshell.open(model_path)
 
 ---
 
-### **3. Retrieve Columns from the Model**
-
+### **3. Retrieve IFC Elements from the Model**
+The code then extracts all `IfcColumn` elements from the model.
 ```python
 columns = model.by_type("IfcColumn")
 ```
