@@ -214,4 +214,15 @@ print(f"Total cost of all columns: {total_cost:.2f} DKK")
 
 ---
 
+### **Example Output**
+Once executed, the script might output something similar to:
+```python
+Total volume of big columns: 50.00 cubic meters
+Total volume of small columns: 30.00 cubic meters
+Total price of big columns: 672634.50 DKK
+Total price of small columns: 524010.00 DKK
+Total cost of all columns: 1196644.50 DKK
+```
+---
+
 This code systematically categorizes columns, calculates their volumes and total costs, and provides a summary, making it useful for analyzing column costs based on volume and type.
