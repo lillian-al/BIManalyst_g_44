@@ -1,23 +1,14 @@
-# Volumes and Cost Tutorial
-### **How This Script Works**
+# Extracting IFC Element Properties: A Guide to Accessing Column Volumes with ifcopenshell
+### **Overview**
 
-The script is structured into several key sections. First, it loads and validates the IFC file, ensuring we have a valid path to work with. Then, it extracts column elements from the model and organizes them by their type. Each column type is categorized as either a "small" or "big" column based on its size, with corresponding unit prices. Next, it calculates the volume for each column and sums up the volume and price totals based on the type. Finally, it displays a summary of the total volumes and costs for each category of columns.
+In this tutorial, we'll cover how to use ifcopenshell to access element properties in an IFC file. Specifically, we’ll focus on extracting the volume of columns in a building model. This guide is valuable for anyone looking to analyze IFC files for design, estimation, or building information modeling (BIM) purposes.
 
-### **Steps to the code**
+### **What you will learn**
 
-1. loading the IFC model in Python using ifcopenshell.
-
-2. Extracts column data and access properties such as type and volume.
-
-3. Categorizes columns based on type and calculate cumulative volume.
-
-4. Defines costs per unit volume for different types of columns.
-
-5. Calculates total costs based on these volumes and unit prices.
-
-6. Outputs a summary with total volumes and costs for different column types.
-
-
+- Loading an IFC file into a Python environment
+- Retrieving specific elements (e.g., columns) from the model
+- Accessing properties, such as **volume**, from these elements
+- Understanding how properties are stored in property sets
 
 
 ### **Breakdown of the provided code:**
