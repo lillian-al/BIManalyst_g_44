@@ -31,7 +31,7 @@ The tool could be used by professionals involved in the following subjects:
 - **Construction Project Management**: Project managers would benefit from using the tool for budget verification and for confirming that the volume and costs for concrete columns are correct as per the project’s cost breakdown.
 
 
-In order for the tool to work, certain information is required in the model. The equired information in the model includes:
+In order for the tool to work, certain information is required in the model. The required information in the model includes:
 - **IfcColumn:** The model must contain columns defined as *IfcColumn* elements to ensure that all relevant concrete columns are accessible for analysis.
 - **IfcRelDefinesByProperties:** Relationships must link each *IfcColumn* to its associated property sets, enabling access to detailed information about each column.
 - **IfcPropertySet:** Property sets associated with *IfcColumn* elements should include key properties, such as Type (for column classification) and Volume, to allow for accurate categorization and volume-based cost calculations.
