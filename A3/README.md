@@ -23,8 +23,9 @@ The script will automatically extract data on all concrete columns, calculate th
 What Advanced Building Design Stage (A,B,C or D) would your tool be usefuL?
 
 
-Which subjects might use it?
-
+The tool could be used by professionals involved in the following subjects:
+- **Structural Engineering**: Structural engineers who design the layout and size of columns will find the tool useful for verifying the accuracy of their volume calculations and ensuring cost estimates match project documentation.
+- **Construction Project Management**: Project managers would benefit from using the tool for budget verification and for confirming that the volume and costs for concrete columns are correct as per the project’s cost breakdown.
 
 
 In order for the tool to work, certain information is required in the model. The equired information in the model includes:
