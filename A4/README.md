@@ -39,16 +39,22 @@ from pathlib import Path
 ### **2. Load the IFC Model File**
 
 ```python
-model_path = Path(r"C:\Users\lilli\OneDrive\Desktop\DTU\Kandidat\OpenBIM\CES_BLD_24_06_STR.ifc")
+model_path = input("Enter the IFC file path (or press Enter to use default): ")
+if not model_path:
+    model_path = Path(r"C:\Users\lilli\OneDrive\Desktop\DTU\Kandidat\OpenBIM\CES_BLD_24_06_STR.ifc")
+else:
+    model_path = Path(model_path)
+
 if not model_path.is_file():
     raise FileNotFoundError(f"No file found at {model_path}!")
-    
+
 model = ifcopenshell.open(model_path)
 ```
 
-- **model_path**: Specifies the path to the IFC file, ensuring it's valid and exists.
-- **ifcopenshell.open**: Opens the file to extract and analyze model data.
-- **Error Handling**: If the file is missing, it raises an error with a clear message.
+- **User Input for Model Path**: Prompts the user to input a path to the IFC model file. If the user presses Enter without providing a path, it defaults to a predefined location.
+- **model_path**: Converts the provided file path into a `Path` object, making it easy to verify and handle.
+- **File Existence Check**: Checks if the specified file exists. If the file isn’t found, a `FileNotFoundError` is raised with a message indicating the missing file path.
+- **ifcopenshell.open**: Opens the IFC model file using `ifcopenshell`, enabling extraction and analysis of data.
 
 ---
 
