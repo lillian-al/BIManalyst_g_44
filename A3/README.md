@@ -40,20 +40,9 @@ In order for the tool to work, certain information is required in the model. The
 ### IDS for IFC2x3 - Concrete Column Cost Verification
 This IDS provides guidelines to ensure that an IFC2x3 model is compatible with our tool designed for verifying concrete column costs. This specification outlines the key requirements for model compatibility, focusing on schema version, entity presence, and essential properties.
 
-- **IFC Schema Compatibility: Ensures the model is in IFC2x3.
-- **Entity Presence: Confirms IfcColumn entities are included in the model.
-- **Property Availability: Verifies that Type and Volume properties are present on each column, providing necessary data for cost calculations.
-
-**JASON IDS code:
-{
-  "ifc_version": "IFC2x3",
-  "entities": {
-    "IfcColumn": {
-      "required": true,
-      "properties": ["Type", "Volume"]
-    }
-  }
-}
+- IFC Schema Compatibility: Ensures the model is in IFC2x3.
+- Entity Presence: Confirms IfcColumn entities are included in the model.
+- Property Availability: Verifies that Type and Volume properties are present on each column, providing necessary data for cost calculations.
 
 
 
