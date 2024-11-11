@@ -1,4 +1,3 @@
-# column_cost.py
 import ifcopenshell
 
 def column_cost(model):
