@@ -42,7 +42,7 @@ model = ifcopenshell.open(model_path)
 
 ---
 
-### **3. Retrieve Specific IFC Elements (Columns) from the Model **
+### **3. Retrieve Specific IFC Elements (Columns) from the Model**
 IFC files classify building elements by type, so if we want to access all columns in the model, we can use `model.by_type("IfcColumn").` This retrieves all column elements, making it easy to analyze properties specific to columns.
 
 ```python
