@@ -28,12 +28,8 @@ from pathlib import Path
 We’ll start by loading the IFC file containing the building model.
 
 ```python
-model_path = input("Enter the IFC file path (or press Enter to use default): ")
-if not model_path:
-    model_path = Path(r"C:\Users\lilli\OneDrive\Desktop\DTU\Kandidat\OpenBIM\CES_BLD_24_06_STR.ifc")
-else:
-    model_path = Path(model_path)
-
+# Load the IFC file
+model_path = Path(r"C:\Users\lilli\OneDrive\Desktop\DTU\Kandidat\OpenBIM\CES_BLD_24_06_STR.ifc")
 if not model_path.is_file():
     raise FileNotFoundError(f"No file found at {model_path}!")
 
