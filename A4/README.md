@@ -36,7 +36,6 @@ if not model_path.is_file():
 model = ifcopenshell.open(model_path)
 ```
 
-- **User Input for Model Path**: Prompts the user to input a path to the IFC model file. If the user presses Enter without providing a path, it defaults to a predefined location.
 - **model_path**: Converts the provided file path into a `Path` object, making it easy to verify and handle.
 - **File Existence Check**: Checks if the specified file exists. If the file isn’t found, a `FileNotFoundError` is raised with a message indicating the missing file path.
 - **ifcopenshell.open**: Opens the IFC model file using `ifcopenshell`, enabling extraction and analysis of data.
