@@ -33,9 +33,13 @@ On the other side, it is highly likely that I will use OpenBIM tools in my profe
 </details>
 
 
-## Mahdi's reflection
-At the start of the course, I was a Modeler, but by the end, I happily consider myself a self-learner in OpenBIM! While I know there's still a lot to master both in terms of BIM tools and programming skills on Python, this course helped me to establish a stronger plan.  
+<details>
+  <summary><strong>Mahdi's reflection</strong></summary>
+
+  At the start of the course, I was a Modeler, but by the end, I happily consider myself a self-learner in OpenBIM! While I know there's still a lot to master both in terms of BIM tools and programming skills on Python, this course helped me to establish a stronger plan.  
 
 During the course, Lilian and I tackeld a concrete challenge! Our mission was to develop a tool that could verify the accuracy of construction cost estimates for all the concrete columns in the Building #2406 case. The result for me was a deeper appreciation for OpenBIM as a main tool shaping the future of the construction field.   
 
 With my knowledge in Revit, this experience added to my ambition to look deeper into Python and OpenBIM. My (current) final goal is to step into the role of a construction manager equipped with the skills to use these tools and supercharge construction management efficiency! I plan to become a BIM manager in the near future, using these skills to grow into a more independent and efficient construction manager.
+
+</details>
