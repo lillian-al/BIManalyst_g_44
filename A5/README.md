@@ -9,5 +9,6 @@ Other comments that we received were that we made a great phase breakdown and th
 ## Lillian's reflection
 At the beginning of this course I had a basic understanding of BIM concepts but limited experience with OpenBIM tools such as ifcopenshell. My knowledge of IFC files was theoretical, with minimal exposure to practical coding or property extraction workflows. I would say that I was a beginner analyst, but have now moved up to a self learner. Throughout the course I have gained practical proficiency in using OpenBIM tools like ifcopenshell for specific tasks such as accessing and analyzing IFC files. I have now gained skills in extracting data programmatically, and understanding their structure through tools like ifcopenshell. I also gained an appreciation for the potential of OpenBIM to enhance collaboration and transparency in projects.
 
+Despite my progress, there are areas where I need further growth. 
 
 ## Mahdi's reflection
