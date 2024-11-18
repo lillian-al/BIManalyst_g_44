@@ -15,7 +15,11 @@ Despite my progress, there are areas where I need further growth. So far, my exp
 In the future, I see OpenBIM playing a important role in my work. Its ability to manage building information make it ideal for collaborative design and construction projects. I plan to use OpenBIM for tasks like structural analysis, cost estimation, and lifecycle assessment. For example, extracting and analyzing detailed material properties could inform decisions about sustainability and resource efficiency. Furthermore, OpenBIM can support innovative approaches, such as using automated compliance checks to ensure building designs meet regulatory and project-specific standards. This versatility makes OpenBIM an essential tool for advancing both my professional and academic pursuits.
 
 #### My process of developing the tutorial
+The process of the course helped me gain a deeper understanding of OpenBIM concepts and tools. OpenBIM could definitely be applied in automating workflows, which could be relevant to future research or practical applications.
 
+I appreciated the freedom in choosing use cases, as it allowed me to focus on topics relevant to my interests. 
+
+The number of tools in the course was adequate. Adding too many could overwhelm beginners, while removing essential tools like ifcopenshell or visualization libraries would limit the learning experience. The balance felt just right.
 
 #### My future for Advanced use of OpenBIM
 
