@@ -24,6 +24,8 @@ The number of tools in the course was adequate. Adding too many could overwhelm 
 #### My future for Advanced use of OpenBIM
 I don't think I will use OpenBIM tools directly in my thesis, however the foundational understanding that I have gained can inform certain aspects, particularly if I explore automating workflows or data management in the built environment.
 
+On the other side, it is highly likely that I will use OpenBIM tools in my professional life. With the growing emphasis on collaboration and interoperability in the construction industry, OpenBIM tools will play a key role in streamlining processes, improving efficiency, and enhancing project outcomes.
+
 #### Wrap up
 
 
