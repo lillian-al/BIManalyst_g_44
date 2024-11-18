@@ -7,7 +7,9 @@ One question that we received from a group was whether the volume of columns was
 Other comments that we received were that we made a great phase breakdown and that it was cool that the tutorial is interchangeable and could be used for beams or other elements. The tutorial’s step-by-step structure and adaptability to other elements were appreciated. This validates the methodical approach and highlights its broader applicability. The acknowledgment of the tutorial's adaptability suggests it could be expanded to show examples for beams, walls, or other elements, further showcasing the tool's versatility.
 
 ## Lillian's reflection
-At the beginning of this course, my understanding of OpenBIM was basic. I knew it involved interoperable workflows and formats like IFC, but I lacked practical knowledge of how to implement it effectively.
+At the beginning of this course I had a basic understanding of BIM concepts but limited experience with OpenBIM tools such as ifcopenshell. My knowledge of IFC files was theoretical, with minimal exposure to practical coding or property extraction workflows. I would say that I was a beginner analyst, but have now moved up to a self learner. Throughout the course I have gained practical proficiency in using OpenBIM tools like ifcopenshell for specific tasks such as accessing and analyzing IFC files. I can now:
+
+
 By the end of this course, I had developed significant skills in working with IFC files, extracting data programmatically, and understanding their structure through tools like ifcopenshell. I also gained an appreciation for the potential of OpenBIM to enhance collaboration and transparency in projects.
 
 
