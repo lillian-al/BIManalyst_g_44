@@ -22,7 +22,7 @@ I appreciated the freedom in choosing use cases, as it allowed me to focus on to
 The number of tools in the course was adequate. Adding too many could overwhelm beginners, while removing essential tools like ifcopenshell or visualization libraries would limit the learning experience. The balance felt just right.
 
 #### My future for Advanced use of OpenBIM
-
+I don't think I will use OpenBIM tools directly in my thesis, however the foundational understanding that I have gained can inform certain aspects, particularly if I explore automating workflows or data management in the built environment.
 
 #### Wrap up
 
