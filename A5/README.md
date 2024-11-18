@@ -12,3 +12,6 @@ At the beginning of this course I had a basic understanding of BIM concepts but 
 Despite my progress, there are areas where I need further growth. 
 
 ## Mahdi's reflection
+During this course, Lilian and I tackeld a concrete challenge! Our mission was to develop a tool that could verify the accuracy of construction cost estimates for all the concrete columns in the Building #2406 case. The result for me was a deeper appreciation for OpenBIM as a main tool shaping the future of the construction field.   
+
+With my knowledge in Revit, this experience added to my ambition to look deeper into Python and OpenBIM. My (current) final goal is to step into the role of a construction manager equipped with the skills to use these tools and supercharge construction management efficiency! 
