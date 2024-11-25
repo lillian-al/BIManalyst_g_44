@@ -41,10 +41,10 @@ On the other side, it is highly likely that I will use OpenBIM tools in my profe
 <details>
   <summary><strong>Mahdi's reflection</strong></summary>
 
-  At the start of the course, I was a Modeler, but by the end, I happily consider myself a self-learner in OpenBIM! While I know there's still a lot to master both in terms of BIM tools and programming skills on Python, this course helped me to establish a stronger plan.  
+  At the start of the course, I was a **Modeler**, but by the end I happily consider myself a **self-learner** in OpenBIM. While I know there's still a lot to master both in terms of BIM tools and programming skills on Python, this course helped me to establish a stronger plan. Thanks to Moussa, our manager, I learned fast how to tackle mistakes while coding. At the beginning of the course, my Python knowledge was quite limited, but that didn’t hold me back. Now I’ve developed my coding skills and gained the confidence to keep learning and growing in this area. The journey with Python has just begun, and I’m excited to see where I can go with it! 
+  
+During the course, Lilian and I tackeld a concrete challenge, our mission was to develop a tool that could verify the accuracy of construction cost estimates for all the concrete columns in the Building #2406 case. The result for me was a deeper appreciation for OpenBIM as a main tool shaping the future of the construction field.   
 
-During the course, Lilian and I tackeld a concrete challenge! Our mission was to develop a tool that could verify the accuracy of construction cost estimates for all the concrete columns in the Building #2406 case. The result for me was a deeper appreciation for OpenBIM as a main tool shaping the future of the construction field.   
-
-With my knowledge in Revit, this experience added to my ambition to look deeper into Python and OpenBIM. My (current) final goal is to step into the role of a construction manager equipped with the skills to use these tools and supercharge construction management efficiency! I plan to become a BIM manager in the near future, using these skills to grow into a more independent and efficient construction manager.
+With my current knowledge in Revit, this experience added to my ambition to look deeper into Python and OpenBIM. My (current) final goal is to step into the role of a construction manager equipped with the skills to use these tools and supercharge construction management efficiency! I plan to become a BIM manager in the near future, using these skills to grow into a more independent and efficient construction manager.
 
 </details>
