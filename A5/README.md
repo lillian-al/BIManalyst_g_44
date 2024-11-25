@@ -84,7 +84,7 @@ In [**A1**](https://github.com/lillian-al/BIManalyst_g_44/blob/main/A1/README.md
 
 [**A3**](https://github.com/lillian-al/BIManalyst_g_44/blob/main/A3/README.md) was where it all came together. We built a Python tool to automate the process outlined in A2. The tool extracted column data, calculated volumes, applied unit costs, and validated the project’s cost estimates. It was challenging but rewarding to see how coding and OpenBIM work hand-in-hand to improve efficiency.  
 
-In **A4**, we created a tutorial to guide others in extracting and analyzing IFC data. This was a great way to review everything we’d learned and make it accessible for others. Breaking down the steps into a clear guide helped us solidify our knowledge while helping the group tackle similar challenges.  
+In [**A4**](https://github.com/lillian-al/BIManalyst_g_44/blob/main/A4/README.md), we created a tutorial to guide others in extracting and analyzing IFC data. This was a great way to review everything we’d learned and make it accessible for others. Breaking down the steps into a clear guide helped us solidify our knowledge while helping the group tackle similar challenges.  
 
 Finally, **A5** gave us a chance to reflect on everything we’d learned. Starting from basic data extraction to building tools and teaching others, we’ve come a long way. OpenBIM is more than just technology; it’s a powerful way to bring transparency and accuracy to construction projects, and we’re excited to use these skills in the future.
 
