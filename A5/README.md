@@ -61,7 +61,19 @@ Although I’m still unsure about incorporating OpenBIM into my thesis, I had an
 
 As someone aspiring to be a construction manager, I’m convinced that OpenBIM is a gem to help me outperform others and grow into a more skilled professional. Without a doubt, I’ll continue learning and using BIM over the next decade.
 
+
 #### Wrap up
 
+Working through the assignments has been a rewarding experience for me that deepened my understanding of this technology and its applications. 
+
+In **A1**, we started by verifying the construction cost of concrete columns in Building #2406. Using Python and ifcOpenShell, we calculated column volumes and costs, which gave us our first hands-on experience with OpenBIM and its ability to ensure cost accuracy in construction projects.  
+
+**A2** focused on defining a specific use case: verifying the accuracy of cost estimates for columns. We mapped out how to gather geometric data from the IFC file, classify columns by size, and calculate their costs. This step showed us how OpenBIM tools can simplify complex workflows and ensure financial integrity.  
+
+**A3** was where it all came together. We built a Python tool to automate the process outlined in A2. The tool extracted column data, calculated volumes, applied unit costs, and validated the project’s cost estimates. It was challenging but rewarding to see how coding and OpenBIM work hand-in-hand to improve efficiency.  
+
+In **A4**, we created a tutorial to guide others in extracting and analyzing IFC data. This was a great way to review everything we’d learned and make it accessible for others. Breaking down the steps into a clear guide helped us solidify our knowledge while helping the group tackle similar challenges.  
+
+Finally, **A5** gave us a chance to reflect on everything we’d learned. Starting from basic data extraction to building tools and teaching others, we’ve come a long way. OpenBIM is more than just technology; it’s a powerful way to bring transparency and accuracy to construction projects, and we’re excited to use these skills in the future.
 
 </details>
