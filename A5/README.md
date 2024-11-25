@@ -3,7 +3,7 @@
 <details>
   <summary><strong>Group reflection</strong></summary>
 
-#### Summary or tutoiral feedback
+#### Summary or tutorial feedback
   Based on the feedback that we received on our tool from other groups we could confirm that the tool effectively addressed the identified use case, which is extracting and calculating volumes of columns in an IFC file. The script demonstrated the capability to access and utilize property data stored in the IFC model, achieving the intended goal. The feedback also confirmed that the methodology was clear, adaptable, and solved real challenges.
 
 One question that we received from a group was whether the volume of columns was based on the dimensions. The answer to that was that the volume is based on the values stored in the IFC file, and not recalculated from dimensions. This question highlighted the importance of clarifying how the volume is derived and indicates a need to elaborate on how IFC files store data, which could enhance the tutorial's explanation. 
@@ -11,11 +11,18 @@ One question that we received from a group was whether the volume of columns was
 Other comments that we received were that we made a great phase breakdown and that it was cool that the tutorial is interchangeable and could be used for beams or other elements. The tutorial’s step-by-step structure and adaptability to other elements were appreciated. This validates the methodical approach and highlights its broader applicability. The acknowledgment of the tutorial's adaptability suggests it could be expanded to show examples for beams, walls, or other elements, further showcasing the tool's versatility.
 
 #### Process of the tutorial
+When developing our tutorial we approached the process as follows:
+1. **Identify Key Concepts**: We focused on extracting and calculating column volumes, based on our tool in A3.  
+2. **Outline Steps**: We broke down the process into logical parts: setting up the environment, loading the IFC file, retrieving column data, accessing properties, and calculating volumes.  
+3. **Create the Content**: We detailed each step with explanations, code snippets, and outputs for clarity.  
+4. **Test & Refine**: We ran the tutorial step-by-step, ensuring it was accurate and easy to follow.  
+5. **Present & Review**: We shared it with peers, incorporated feedback, and adjusted any unclear parts.
+
 The process of the course helped us gain a deeper understanding of OpenBIM concepts and tools. OpenBIM could definitely be applied in automating workflows, which could be relevant to future research or practical applications.
 
-We appreciated the freedom in choosing use cases in the course, as it allowed us to focus on topics relevant to our interests. 
+We appreciated the freedom in choosing use cases in the course, as it allowed us to focus on topics relevant to our interests. However clearer examples could have made the initial steps easier.
 
-The number of tools in the course was adequate. Adding too many could overwhelm beginners, while removing essential tools like ifcopenshell or visualization libraries would limit the learning experience. The balance felt just right.
+The number of tools in the course was adequate. Adding too many could overwhelm beginners, while removing essential tools like ifcopenshell or visualization libraries would limit the learning experience. The balance felt just right, however introducing a visual debugging tool for IFC data could be helpful.
 
 
 </details>
