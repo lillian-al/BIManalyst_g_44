@@ -24,7 +24,7 @@ In the future, I see OpenBIM playing a important role in my work. Its ability to
 #### My process of developing the tutorial
 The process of the course helped me gain a deeper understanding of OpenBIM concepts and tools. OpenBIM could definitely be applied in automating workflows, which could be relevant to future research or practical applications.
 
-I appreciated the freedom in choosing use cases, as it allowed me to focus on topics relevant to my interests. 
+I appreciated the freedom in choosing use cases in the course, as it allowed me to focus on topics relevant to my interests. 
 
 The number of tools in the course was adequate. Adding too many could overwhelm beginners, while removing essential tools like ifcopenshell or visualization libraries would limit the learning experience. The balance felt just right.
 
@@ -34,6 +34,8 @@ I don't think I will use OpenBIM tools directly in my thesis, however the founda
 On the other side, it is highly likely that I will use OpenBIM tools in my professional life. With the growing emphasis on collaboration and interoperability in the construction industry, OpenBIM tools will play a key role in streamlining processes, improving efficiency, and enhancing project outcomes.
 
 #### Wrap up
+The
+
 
 </details>
 
