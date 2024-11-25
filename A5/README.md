@@ -4,7 +4,7 @@
   <summary><strong>Group reflection</strong></summary>
 
 #### Summary or tutorial feedback
-  Based on the feedback that we received on our tool from other groups we could confirm that the tool effectively addressed the identified use case, which is extracting and calculating volumes of columns in an IFC file. The script demonstrated the capability to access and utilize property data stored in the IFC model, achieving the intended goal. The feedback also confirmed that the methodology was clear, adaptable, and solved real challenges.
+  Based on the feedback that we received on [our tool ](https://github.com/lillian-al/BIManalyst_g_44/blob/main/A3/README.md)from other groups we could confirm that the tool effectively addressed the identified use case, which is extracting and calculating volumes of columns in an IFC file. The script demonstrated the capability to access and utilize property data stored in the IFC model, achieving the intended goal. The feedback also confirmed that the methodology was clear, adaptable, and solved real challenges.
 
 One question that we received from a group was whether the volume of columns was based on the dimensions. The answer to that was that the volume is based on the values stored in the IFC file, and not recalculated from dimensions. This question highlighted the importance of clarifying how the volume is derived and indicates a need to elaborate on how IFC files store data, which could enhance the tutorial's explanation. 
 
