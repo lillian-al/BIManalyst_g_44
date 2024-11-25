@@ -34,8 +34,19 @@ I don't think I will use OpenBIM tools directly in my thesis, however the founda
 On the other side, it is highly likely that I will use OpenBIM tools in my professional life. With the growing emphasis on collaboration and interoperability in the construction industry, OpenBIM tools will play a key role in streamlining processes, improving efficiency, and enhancing project outcomes.
 
 #### Wrap up
-The
+Reflecting on my journey through the assignments, I have developed a significantly deeper understanding of OpenBIM tools and their application. Each assignment was an opportunity to build on the skills introduced in the previous one.
 
+Starting with assignment A1, I was introduced to the process of validating claims made in project reports using OpenBIM tools. A1 provided a foundational understanding of how IFC files and scripting can be used to extract meaningful data.
+
+In A2 I learned more about use cases and was able to identify a specific use case relevant to my focus area and map out how OpenBIM could address it.
+
+A3 was the core technical challenge, where I developed a Python script to address the use case defined in A2. The tool automated the extraction of IFC element properties, providing a structured approach to analyzing model data. This assignment significantly improved my coding skills.
+
+In A4, Mahdi and I got to create and present a tutorial that addressed a learning need within the group. I found this to be a great way to conclude after scripting in A3, as it allowed us to solve any challenges we had faced during the development process. The tutorials I developed and reviewed helped reinforce my knowledge and clarified advanced concepts.
+
+Finally, A5 provided an opportunity to reflect on the entire learning experience and consider how these tools and techniques might influence my academic and professional future.
+
+This process has been a valuable learning journey and the course has overall equipped me with a strong foundation for exploring advanced applications of OpenBIM.
 
 </details>
 
