@@ -11,9 +11,9 @@ One question that we received from a group was whether the volume of columns was
 Other comments that we received were that we made a great phase breakdown and that it was cool that the tutorial is interchangeable and could be used for beams or other elements. The tutorial’s step-by-step structure and adaptability to other elements were appreciated. This validates the methodical approach and highlights its broader applicability. The acknowledgment of the tutorial's adaptability suggests it could be expanded to show examples for beams, walls, or other elements, further showcasing the tool's versatility.
 
 #### Process of the tutorial
-The process of the course helped me gain a deeper understanding of OpenBIM concepts and tools. OpenBIM could definitely be applied in automating workflows, which could be relevant to future research or practical applications.
+The process of the course helped us gain a deeper understanding of OpenBIM concepts and tools. OpenBIM could definitely be applied in automating workflows, which could be relevant to future research or practical applications.
 
-I appreciated the freedom in choosing use cases in the course, as it allowed me to focus on topics relevant to my interests. 
+We appreciated the freedom in choosing use cases in the course, as it allowed us to focus on topics relevant to our interests. 
 
 The number of tools in the course was adequate. Adding too many could overwhelm beginners, while removing essential tools like ifcopenshell or visualization libraries would limit the learning experience. The balance felt just right.
 
