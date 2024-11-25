@@ -59,6 +59,7 @@ During the course, Lilian and I tackeld a concrete challenge, our mission was to
 With my current knowledge in Revit, this experience added to my ambition to look deeper into Python and OpenBIM. My (current) final goal is to step into the role of a construction manager equipped with the skills to use these tools and supercharge construction management efficiency! I plan to become a BIM manager in the near future, using these skills to grow into a more independent and efficient construction manager.
 
 #### A small Idea, but maybe useful
+
 Although I’m still unsure about incorporating OpenBIM into my thesis, I had an idea while searching for its benefits. While searching for data on the advantages of hiring OpenBIM experts, I found a surprising lack of statistics. This gap inspired me to consider exploring the impact of OpenBIM knowledge in companies, comparing those with engineers educated in OpenBIM to those without. I’d analyze their performance, future potentials, and economic benefits.  
 
 As someone aspiring to be a construction manager, I’m convinced that OpenBIM is a gem to help me outperform others and grow into a more skilled professional. Without a doubt, I’ll continue learning and using BIM over the next decade.
