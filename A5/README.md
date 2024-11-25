@@ -11,7 +11,7 @@ One question that we received from a group was whether the volume of columns was
 Other comments that we received were that we made a great phase breakdown and that it was cool that the tutorial is interchangeable and could be used for beams or other elements. The tutorial’s step-by-step structure and adaptability to other elements were appreciated. This validates the methodical approach and highlights its broader applicability. The acknowledgment of the tutorial's adaptability suggests it could be expanded to show examples for beams, walls, or other elements, further showcasing the tool's versatility.
 
 #### Process of the tutorial
-When developing our tutorial we approached the process as follows:
+When developing [our tutorial](https://github.com/lillian-al/BIManalyst_g_44/blob/main/A4/README.md) we approached the process as follows:
 1. **Identify Key Concepts**: We focused on extracting and calculating column volumes, based on our tool in A3.  
 2. **Outline Steps**: We broke down the process into logical parts: setting up the environment, loading the IFC file, retrieving column data, accessing properties, and calculating volumes.  
 3. **Create the Content**: We detailed each step with explanations, code snippets, and outputs for clarity.  
