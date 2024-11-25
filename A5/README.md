@@ -78,7 +78,7 @@ As someone aspiring to be a construction manager, I’m convinced that OpenBIM i
 
 Working through the assignments has been a rewarding experience for me that deepened my understanding of this technology and its applications. 
 
-In **A1**, we started by verifying the construction cost of concrete columns in Building #2406. Using Python and ifcOpenShell, we calculated column volumes and costs, which gave us our first hands-on experience with OpenBIM and its ability to ensure cost accuracy in construction projects.  
+In [**A1**](https://github.com/lillian-al/BIManalyst_g_44/blob/main/A1/README.md), we started by verifying the construction cost of concrete columns in Building #2406. Using Python and ifcOpenShell, we calculated column volumes and costs, which gave us our first hands-on experience with OpenBIM and its ability to ensure cost accuracy in construction projects.  
 
 **A2** focused on defining a specific use case: verifying the accuracy of cost estimates for columns. We mapped out how to gather geometric data from the IFC file, classify columns by size, and calculate their costs. This step showed us how OpenBIM tools can simplify complex workflows and ensure financial integrity.  
 
