@@ -62,7 +62,8 @@ This process has been a valuable learning journey and the course has overall equ
 #### My learning experience:
 
   At the start of the course, I was a **Modeler**, but by the end I happily consider myself a **self-learner** in OpenBIM. While I know there's still a lot to master both in terms of BIM tools and programming skills on Python, this course helped me to establish a stronger plan. Thanks to Moussa, our manager, I learned fast how to tackle mistakes while coding. At the beginning of the course, my Python knowledge was quite limited, but that didn’t hold me back. Now I’ve developed my coding skills and gained the confidence to keep learning and growing in this area. The journey with Python has just begun, and I’m excited to see where I can go with it! 
-![Before & After](https://github.com/user-attachments/assets/b1091734-ec67-4346-a63b-cf438459fc71)
+
+![Before and After](https://github.com/user-attachments/assets/f5a2809d-66fa-48fd-ad28-277d709294a8)
 
   
 During the course, Lilian and I tackeld a concrete challenge, our mission was to develop a tool that could verify the accuracy of construction cost estimates for all the concrete columns in the Building #2406 case. The result for me was a deeper appreciation for OpenBIM as a main tool shaping the future of the construction field.   
