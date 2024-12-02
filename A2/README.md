@@ -23,6 +23,7 @@ The first BIM purpose required is gathering. This refers to extracting relevant 
 The closest BIM use case is Penn State’s BIM use case under Plan: Cost analysis, Bill of quantities, 02: Cost Estimation. This use case focuses on using BIM for precise quantity take-offs and cost estimation throughout a project's lifecycle, which aligns with our task of calculating the total cost of columns by extracting volumes from the model and multiplying them by unit prices. It enables accurate material quantification, faster cost analysis, and helps in decision-making during the design stage.
 
 ![name](Group44_DiagramCost.svg)
+![name](Group44_costdiagram.svg)
 
 ### A2d
 From the overall use case of cost estimation, a specific function is required for calculating the total volume and cost of concrete columns. This involves automating the extraction of column dimensions and properties from the IFC file using ifcOpenShell. The script would:
