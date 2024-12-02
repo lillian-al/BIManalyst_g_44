@@ -1,4 +1,8 @@
 # Extracting IFC Element Properties: A Guide to Accessing Column Volumes with ifcopenshell
+### **Summary**
+Learn how to use ifcopenshell to extract and calculate the total volume of columns from an IFC file. This guide covers loading models, retrieving elements, and analyzing their properties for BIM and construction insights.
+
+
 ### **Overview**
 
 In this tutorial, we'll cover how to use `ifcopenshell` to access element properties in an IFC file. Specifically, we’ll focus on extracting and calculating the total volume of columns in a building model. This guide is valuable for anyone looking to analyze IFC files for design, estimation, or building information modeling (BIM) purposes.
