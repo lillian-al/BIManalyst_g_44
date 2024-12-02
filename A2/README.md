@@ -22,7 +22,6 @@ This claim is relevant during the design phase as it involves assessing construc
 The first BIM purpose required is gathering. This refers to extracting relevant data from the IFC file, which includes the geometric and material information about all concrete columns. Secondly, the BIM purpose analyzing is required. This involves calculating the total volume of small and large concrete columns and using the unit costs to derive the total construction cost, allowing for an assessment of accuracy in the financial estimates
 The closest BIM use case is Penn State’s BIM use case under Plan: Cost analysis, Bill of quantities, 02: Cost Estimation. This use case focuses on using BIM for precise quantity take-offs and cost estimation throughout a project's lifecycle, which aligns with our task of calculating the total cost of columns by extracting volumes from the model and multiplying them by unit prices. It enables accurate material quantification, faster cost analysis, and helps in decision-making during the design stage.
 
-![name](Group44_DiagramCost.svg)
 ![name](Group44_costdiagram.svg)
 
 ### A2d
